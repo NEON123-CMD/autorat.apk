@@ -1,0 +1,2 @@
+# autorat.apk
+nothing
